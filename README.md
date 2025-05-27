@@ -24,7 +24,7 @@ This repository contains scripts for performing deconvolution analysis using **R
 
 ## Dependencies
 
-- Python 3.x
+- Python 
 - R (for RCTD analysis)
 - Required Python libraries: `scanpy`, `scvi`, `cell2location`, etc.
 - Required R libraries: `Seurat`, `spacexr`, etc.
