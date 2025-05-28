@@ -7,6 +7,7 @@ This repository contains scripts for performing deconvolution analysis using **R
 - `RCTD/`: Scripts for running RCTD and generating results.
 - `Cell2Location/`: Scripts for running Cell2Location and generating results.
 - `Visualizations/`: Scripts for visualizing the results from both RCTD and Cell2Location, including comparison to ground truth.
+- `file/`: The files used in the script and can be downloaded from the public dataset.
 
 ## How to Run
 
